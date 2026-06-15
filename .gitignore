@@ -1,0 +1,10 @@
+*.csv
+*.xls
+*.xlsx
+.env
+.idea/
+*.iml
+__pycache__/
+.venv/
+Z_Archivo_Pruebas/
+*.pdf
